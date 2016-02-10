@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "youtubeplayer-d7049",
+    "project_number": "325903092988",
+    "name": "YouTubePlayer"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325903092988:android:622a76602d00326c",
+        "client_id": "android:com.vincetang.youtubeplayer",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.vincetang.youtubeplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325903092988-l1rfgjmsmg6at2nqe1e749h6a941cuev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vincetang.youtubeplayer",
+            "certificate_hash": "01150F64CC9EAF2767765ED0A445E0D7EBFC6F43"
+          }
+        },
+        {
+          "client_id": "325903092988-q6s76vvdr8dr23kff0f8mep579ns7vci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

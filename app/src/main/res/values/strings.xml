@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Youtube Player</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_youtube">Youtube Player</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">AIzaSyBzCopjw9mlSxJjSMApJY1y4UxDiZ8d2ac</string>
+</resources>
