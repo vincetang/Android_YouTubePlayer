@@ -4,4 +4,7 @@
     <string name="title_activity_youtube">Youtube Player</string>
     <string name="title_activity_maps">Map</string>
     <string name="google_app_id">AIzaSyBzCopjw9mlSxJjSMApJY1y4UxDiZ8d2ac</string>
+    <string name="title_activity_standalone">Standalone Activity</string>
+    <string name="play_video">Play Video</string>
+    <string name="play_playlist">Play Playlist</string>
 </resources>
